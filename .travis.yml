@@ -1,2 +1,2 @@
 language: java
-script: 'gradlew.bat clean build'
+script: 'gradlew clean build'
